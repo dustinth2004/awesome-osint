@@ -2,11 +2,22 @@
 
 [<img src="https://github.com/jivoi/awesome-osint/raw/master/osint_logo.png" align="right" width="100">](https://github.com/jivoi/awesome-osint)
 
-A curated list of amazingly awesome open source intelligence tools and resources.
-[Open-source intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence) is intelligence collected from publicly available sources.
-In the intelligence community (IC), the term "open" refers to overt, publicly available sources (as opposed to covert or clandestine sources). 
+This is an Awesome List for Open Source Intelligence (OSINT). OSINT is the practice of collecting information from published or otherwise publicly available sources. This curated list contains a huge number of tools and resources for conducting OSINT research, aimed at everyone from beginners to experienced professionals in Cyber Threat Intelligence (CTI), threat hunting, and digital investigation.
 
-This list is to help all of those who are into Cyber Threat Intellience (CTI), threat hunting, or OSINT. From beginners to advanced. 
+### What is an Awesome List?
+An "Awesome List" is a community-driven, curated collection of high-quality resources, tools, and learning materials for a specific topic. They are created and maintained by the community to provide a central place for discovery and knowledge sharing. You can find more awesome lists on a huge variety of topics at [awesome.re](https://github.com/sindresorhus/awesome).
+
+### How to Use This List
+This list is very long! To find what you're looking for, we recommend using the "Table of Contents" below to jump to a specific section. You can also use your browser's search function (usually `Ctrl+F` or `Cmd+F`) to search for keywords.
+
+### How to Contribute
+This list is a community effort, and we welcome contributions! If you have a tool or resource to add, or an improvement to suggest, please read our **[Contribution Guidelines](CONTRIBUTING.md)** for a full overview of the process.
+
+Here are the key things to remember:
+*   **Search first:** Check if the tool is already on the list.
+*   **One change per pull request:** This makes it easier to review.
+*   **Follow the format:** Use the `[Name](link) - Description.` format.
+*   **Keep it alphabetical:** Add new entries in alphabetical order within their section.
 
 Happy hacking and hunting 🧙‍♂️
 
